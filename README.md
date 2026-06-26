@@ -74,7 +74,7 @@ sports-league-generator
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dhanasirikoppisetti/Sports-League-Standings-Generator
 ```
 
 Move into the project directory:
